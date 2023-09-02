@@ -1,0 +1,61 @@
+<template>
+	<span>
+		<div class="slider-area">
+<div class="single-slider slider-bg3 hero-overly slider-height2 d-flex align-items-center">
+<div class="container">
+<div class="row justify-content-center ">
+<div class="col-xl-12">
+
+<div class="hero-caption hero-caption2 text-center">
+<h2>Careers</h2>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<section class="career-area pt-50 pb-50">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				 <div class="career-heading">
+				 	<h4>Life at Candid</h4>
+				 </div>
+				 <div class="career-content">
+				 	<p>
+				 		For Savita, commitment of its employees is a critical resource. Fully realizing that only a satisfied and motivated employee will put his best foot forward with the customers, Savita has taken many steps to make the organization a 'Great Place to Work'.
+				 	</p>
+				 	<p>
+				 		Savita fosters effective value-based HR processes for development of people and their organizational capabilities with a view to provide them with a competitive edge and also to realize their personal vision in tandem with the corporate vision.
+				 	</p>
+				 </div>
+				 <div class="career-list">
+				 	<h6>The thrust areas include:</h6>
+				 	<ul>
+				 		<li>
+				 			<i class="fas fa-caret-right"></i>
+				 		     Performance Management which links business goals with individual performance goals.
+				 	    </li>
+				 		<li>
+				 			<i class="fas fa-caret-right"></i>
+				 		     Recognizing competencies and capabilities of the staff through Competency Modelling to help identify and place the right person in the right job.
+				 	     </li>
+
+				 		<li>
+				 			<i class="fas fa-caret-right"></i>
+				 		     Identifying competency gaps and bridging such gaps through appropriate training and developmental programmes.
+				 		 </li>
+
+				 		<li>
+				 			<i class="fas fa-caret-right"></i>
+				 			Multi-skilling to encourage employees to take up new initiatives in the Company's various areas of operations.
+				 		</li>
+				 	</ul>
+				 </div>
+			</div>
+		</div>
+	</div>
+</section>
+	</span>
+</template>
